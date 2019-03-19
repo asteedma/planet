@@ -13,3 +13,6 @@ This repository contains our research into planet. Our research questions are:
 
 ---
 Contact us for suggestions on how you can help!
+---
+
+This is a sample of markdown.
